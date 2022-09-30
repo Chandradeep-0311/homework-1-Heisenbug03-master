@@ -116,7 +116,7 @@ class Geometric:
                     blp1 = (math.floor(i), math.floor(j))
                     blp2 = (math.ceil(i), math.floor(j))
                     blp3 = (math.floor(i), math.ceil(j))
-                    blp4 = (math.ceil(i), math.ceil(j))
+                    blp4 = (math.ceil(i), math.ceil(j))#
 
                     I1 = None
                     I2 = None
