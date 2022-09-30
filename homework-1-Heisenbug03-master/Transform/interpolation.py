@@ -20,6 +20,7 @@ class interpolation:
 
         There are no arguments defined in the function definition on purpose. It is left upto the student to define any requierd arguments.
         Please change the signature of the function and add the arguments based on your implementation.
+
         The function ideally takes four 2D points Pt1, Pt2, Pt3, and Pt4, and their intensitites I(Pt1), I(Pt2), I(Pt3), and I(Pt4).
         return the interpolated intensity value (I(x)) at location x """
 
